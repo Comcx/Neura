@@ -1,0 +1,16 @@
+#+Title:  Study of Neural Networks
+#+Author: Comcx
+#+Email:  comcx@outlook.com
+
+
+** TODO Basic Components
+
+
+** NEXT Recognizing handwritten digits
+
+
+
+
+
+
+
